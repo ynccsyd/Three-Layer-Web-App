@@ -23,7 +23,7 @@ ConsumedEnergy (nvarchar(50), null)
 
 - Create Procedure
 
-```text
+```sql
 USE [SmartUserData]
 GO
 /****** Object:  StoredProcedure [dbo].[USERMSK_SELECT]    Script Date: 7.08.2022 16:13:26 ******/
@@ -58,4 +58,4 @@ END
 
 ### STEP 7 : Create Business Logic Layer (BLL)
 
-[if you need more information] (https://meeraacademy.com/3-tier-architecture-example-in-asp-net-c/)
+[if you need more information]( https://meeraacademy.com/3-tier-architecture-example-in-asp-net-c/ )

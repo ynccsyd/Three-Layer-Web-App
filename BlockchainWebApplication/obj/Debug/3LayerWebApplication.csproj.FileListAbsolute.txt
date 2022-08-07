@@ -1,0 +1,4 @@
+C:\Users\samsung\source\repos\BlockchainWebApplication\BlockchainWebApplication\obj\Debug\3LayerWebApplication.csproj.AssemblyReference.cache
+C:\Users\samsung\source\repos\BlockchainWebApplication\BlockchainWebApplication\obj\Debug\3LayerWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\samsung\source\repos\BlockchainWebApplication\BlockchainWebApplication\obj\Debug\BlockchainWebApplication.dll
+C:\Users\samsung\source\repos\BlockchainWebApplication\BlockchainWebApplication\obj\Debug\BlockchainWebApplication.pdb

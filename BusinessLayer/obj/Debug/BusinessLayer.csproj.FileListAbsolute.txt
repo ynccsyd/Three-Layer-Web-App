@@ -1,0 +1,10 @@
+C:\Users\samsung\source\repos\BlockchainWebApplication\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\samsung\source\repos\BlockchainWebApplication\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\samsung\source\repos\BlockchainWebApplication\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\samsung\source\repos\BlockchainWebApplication\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\samsung\source\repos\BlockchainWebApplication\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\samsung\source\repos\BlockchainWebApplication\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\samsung\source\repos\BlockchainWebApplication\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\samsung\source\repos\BlockchainWebApplication\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\samsung\source\repos\BlockchainWebApplication\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\samsung\source\repos\BlockchainWebApplication\BusinessLayer\obj\Debug\BusinessLayer.pdb

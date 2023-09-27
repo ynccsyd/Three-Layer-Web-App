@@ -57,5 +57,7 @@ END
 ### STEP 6 : write code in Data Access Layer
 
 ### STEP 7 : Create Business Logic Layer (BLL)
+![image](https://github.com/ynccsyd/Three-Layer-Web-App/assets/109158340/cff9eeae-7ea3-4af0-b9a6-f5551a36c2a0)
+
 
 [if you need more information]( https://meeraacademy.com/3-tier-architecture-example-in-asp-net-c/ )
